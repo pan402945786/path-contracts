@@ -45,7 +45,7 @@ exports.getData = async () => {
     //         "data": data
     //     }
     //     ,        
-    //     "4d58e41696d18ade0cd0b8cde18c229475622f8db5a125e1e3c3a85449b0c9f4" // private key 
+    //     "" // private key 
     // );
     // Send Tx and Wait for Receipt
     const transferReceipt = await web3.eth.sendSignedTransaction(
