@@ -12,7 +12,8 @@
 	"license": "MIT",
 	"dependencies": {
 		"@openzeppelin/contracts": "^4.3.2",
-		"ethers": "^5.4.7"
+		"ethers": "^5.4.7",
+		"web3": "^1.7.1"
 	},
 	"devDependencies": {
 		"@truffle/hdwallet-provider": "^1.0.42",
